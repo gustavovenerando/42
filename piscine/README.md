@@ -1,11 +1,3 @@
-## Disclaimer
-Please don’t just copy and paste what you see here. 42 is about learning through understanding and solving problems yourself, not about using answers you haven’t earned.
-
-My goal with this repository is to collect the projects I’ve built during my time at 42, documenting my progress, challenges, and what I’ve learned along the way. It serves as both a personal archive and a public showcase of my growth as I advance through the 42 curriculum.
-
-> [!WARNING]
-> If you plan to create a repository for your projects, please do not upload the subject materials, as they are protected by 42's intellectual property.
-
 ## Grades
 ### Exercises
 | List | Grade |
