@@ -1,3 +1,11 @@
+## Disclaimer
+Please do not just copy/paste what you see here, that is not the goal of the school to blindly find/use answers without understanding them.
+
+My goal with this repository is to collect the projects I’ve built during my time at 42, documenting my progress, challenges, and what I’ve learned along the way. It serves as both a personal archive and a public showcase of my growth as I advance through the 42 curriculum.
+
+> [!WARNING]
+> If you plan to create a repository for your projects, please do not upload the subject materials, as they are protected by 42's intellectual property.
+
 ## Grades
 ### Exercises
 | List | Grade |
@@ -22,10 +30,3 @@
 | Exam02 | 80 :white_check_mark: |
 | Final Exam | 66 :white_check_mark: |
 
-### Disclaimer
-Please do not just copy/paste what you see here, that is not the goal of the school to blindly find/use answers without understanding them.
-
-My goal with this repository is to collect the projects I’ve built during my time at 42, documenting my progress, challenges, and what I’ve learned along the way. It serves as both a personal archive and a public showcase of my growth as I advance through the 42 curriculum.
-
-> [!WARNING]
-> If you plan to create a repository for your projects, please do not upload the subject materials, as they are protected by 42's intellectual property.
