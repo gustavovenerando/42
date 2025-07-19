@@ -2,6 +2,10 @@
 
 set -euo pipefail
 
+if [ $# -lt 2 ]; then
+	echo "Error: 2 arguments are expected to run the script: clone_url(first) and dir_name(second)"
+	exit 1
+
 CLONE_URL="$1"
 DIR_NAME="$2"
 TEMP_DIR_NAME="$2-before"
